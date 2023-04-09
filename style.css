@@ -132,6 +132,27 @@ color: rgba(255,255, 255, 0.3);
   
 }
 
+.add-personel-btn-div{
+  position: absolute;
+  bottom: 10%;
+  left: 80%;
+}
+.add-personel-btn{
+    font-size: 12px;
+    border-radius: 4px;
+    font-weight: 600;
+    padding-top: 6px;
+    cursor: pointer;
+    padding-bottom: 6px;
+    color: #FFFFFF;
+    background: rgba(101, 255, 144, 0.25);
+    padding: 10px auto;
+    border:1px solid rgba(101, 255, 144, 0.45);
+    /* color: #FFFFFF; */
+}
+
+
+
 .redirection-nav {
   display: flex;
   flex-direction: row;
